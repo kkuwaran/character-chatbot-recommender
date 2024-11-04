@@ -31,6 +31,7 @@ character-chatbot-recommender/
 │   ├── character_descriptions_embeddings_v0.csv    # Embeddings from OpenAI API v0.28.0
 │   └── character_descriptions_embeddings_v1.csv    # Embeddings from OpenAI API v1.52.1
 ├── custom_chatbot.ipynb                            # Jupyter notebook for embedding the dataset and RAG model
+├── tester.ipynb                                    # Notebook for testing individual sub-functions
 ├── openai_api_wrapper.py                           # OpenAI API client wrapper
 ├── data_processor.py                               # Data cleaning and preprocessing functions
 ├── embedding_generator.py                          # Functions for generating embeddings
